@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class Lombardo
+public class Lombardoo
 {
 
 		public static void main(String[] args) {

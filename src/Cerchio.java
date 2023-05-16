@@ -15,7 +15,7 @@ public class Cerchio {
 		System.out.println("area= "+area);
 		System.out.println("perimetro= "+perimetro);
 	}
-	public void perimetro(){
+	public void perimetro() {
 		this.perimetro=diametro*p;
 	}
 	public void area() {
